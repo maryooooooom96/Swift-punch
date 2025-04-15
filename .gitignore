@@ -1,0 +1,18 @@
+# Common Swift and Xcode files to ignore
+*.xcworkspace
+*.xcuserdata
+*.xcodeproj
+*.xcuserstate
+*.xcscmblueprint
+
+# Build and derived data directories to ignore
+build/
+DerivedData/
+
+# User-specific files to ignore
+*.swp
+*.swo
+*.DS_Store
+*.swp
+*.swo
+*.DS_Store
